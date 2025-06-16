@@ -31,6 +31,16 @@ author:
   uri              : # URL
   email            : "20do7@queens.ca" 
 
+  navigation:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
