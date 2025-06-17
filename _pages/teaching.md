@@ -17,8 +17,8 @@ Assisted in teaching and course delivery for graduate-level students, including 
 ## Winter 2020
 
 ### Bioinformatics  
-**Teaching Assistant**\ 
-Institute of Pharmacy, First Moscow Medical University, Moscow, Russia\
+**Teaching Assistant**  
+Institute of Pharmacy, First Moscow Medical University, Moscow, Russia  
 Supported lectures and practical classes in introductory bioinformatics, focusing on sequence alignment, databases, and basic scripting.
 
 ---
