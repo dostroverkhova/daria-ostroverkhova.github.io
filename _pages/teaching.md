@@ -9,7 +9,7 @@ author_profile: true
 
 ### Applied Data Science in Molecular Medicine  
 **Teaching Assistant**  
-Department of Pathology and Molecular Medicine, Queen’s University, Kingston, ON, Canada
+Department of Pathology and Molecular Medicine, Queen’s University, Kingston, ON, Canada  
 Assisted in teaching and course delivery for graduate-level students, including guidance on data analysis workflows in molecular medicine and use of R/Python for various datasets.
 
 ---
